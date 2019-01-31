@@ -6,7 +6,7 @@ return [
      * Replace ReplaceThisWithYourOwnLicenseKey below with your license key found in your FusionInvoice.com account panel.
      */
 
-    'key' => 'ReplaceThisWithYourOwnLicenseKey',
+    'key' => 'KQjGu1V8iArNSlsFuXd8Ywa7x0Dv6cPk',
 
 
 
